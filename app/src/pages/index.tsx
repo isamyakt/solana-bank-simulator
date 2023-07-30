@@ -69,7 +69,6 @@ export default function Home() {
 
         <Text mt="40px" fontSize="40px" color="white" fontWeight={700}>Welcome to Solana Bank Simulator</Text>
         <Text fontSize="30px" fontWeight={700} color="#64667B">You’ll receive 5% interest returns minutely</Text>
-        <Text fontSize="15px" fontWeight={500} color="#64667B">Anchor program is deployed on clockwork localhost. So it doesn't work on your machine</Text>
 
         <Flex minH="50vh" gap="2rem" borderRadius="20px" bg="#0A0E1A" width="50vw" p="2rem" flexFlow="column" justify="center" align="center">
 
